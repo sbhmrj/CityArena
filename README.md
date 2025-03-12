@@ -1,10 +1,18 @@
-# myapp
+# CityArena
 
 A new Flutter project.
 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
+
+## Screenshots
+
+<p align="center">
+  <img src="Screenshot_20250312-213620.png" alt="Screenshot 1" width="45%">
+  <img src="Screenshot_20250312-213615.png" alt="Screenshot 2" width="45%">
+</p>
+
 
 A few resources to get you started if this is your first Flutter project:
 
